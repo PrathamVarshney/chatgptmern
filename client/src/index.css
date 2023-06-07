@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root{
+  background-color: rgb(96, 166, 236);
+}
+
+body {
+  font-family: "roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+
+
